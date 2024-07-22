@@ -1,71 +1,71 @@
 {
   "饿了": {
-    "enable": "true",
+    "enable": true,
     "command": "查询指令：简单查询|查询\n打赏指令：代挂\n解绑指令：解绑\n找回指令：找回\n备注指令：备注",
     "description": "新号记得把梦幻小院玩到四级，成语闯关玩一关\n饿了么现在已经免费，收取200积分/月，是提高一点门槛，防止代挂太多。但是积分可以每天签到白嫖。\n提供收费版：每天币2600+，正常稳定2600，价格4一个月。一机最多两号，虚拟机除外。需要单独联系机器人上车。苹果不支持上付费版，更新太麻烦了。\n上车和更新都不需要指令，直接发送ck"
   },
   "京东": {
-    "enable": "true",
+    "enable": true,
     "command": "\n查询指令：豆|京东查询\n登录指令：登录|京东登录\n账密指令：账密登录\n明细指令: 豆豆明细",
     "description": "登录指令上车有效期较短，推荐账密上车，自动更新ck, 偶尔需要验证一下。免费项目，每天100豆左右，以及现金红包，农场等活动"
   },
   "太平": {
-    "enable": "true",
+    "enable": true,
     "command": "教程指令：太平教程\n查询指令：太平查询\n登录指令：登录|太平上车\n管理指令：太平管理",
     "description": "每天130+金币，可以兑换各种奖励，包括E卡，实物、积分、会员等。需要自己卡点抢兑，每天7点开始。月费4，可以通过积分兑换。"
   },
   "心喜": {
-    "enable": "true",
+    "enable": true,
     "command": "教程指令：心喜教程\n查询指令：心喜查询\n登录指令：心喜登录\n管理指令：心喜管理\n库存指令：心喜库存",
     "description": "每天10-200积分，需要抓包，抓包后不能进入小程序，200积分/首次， 50积分/更新\n兑换实物和会员，兑换秒到，差不多一个月可以兑换一次。"
   },
   "粉象": {
-    "enable": "true",
+    "enable": true,
     "command": "教程指令:粉象教程\n上车指令:粉象上车\n查询指令:粉象查询\n管理指令:粉象管理",
     "description": "每天大概2个抽奖码，晚上8点开奖，抽现金和实物\n一个月仅需0.5，绝对回本，有几率中68和700+"
   },
   "望潮": {
-    "enable": "true",
+    "enable": true,
     "command": "教程望潮\n登录望潮\n查询望潮\n更新望潮\n删除望潮\n打赏望潮",
     "description": "月费0.5元，利润一天0.16-0.33r"
   },
   "胖乖": {
-    "enable": "true",
+    "enable": true,
     "command": "教程胖乖\n登录胖乖\n查询胖乖\n更新胖乖\n删除胖乖\n打赏胖乖",
     "description": "月费0.5元，利润一天250+积分，用于大学生洗衣服和吹风机"
   },
   "福田": {
-    "enable": "true",
+    "enable": true,
     "command": "教程福田\n登录福田\n查询福田\n更新福田\n删除福田\n打赏福田",
     "description": "永久打赏5元，每天90积分，积分换实物。"
   },
   "丰信": {
-    "enable": "true",
+    "enable": true,
     "command": "教程丰信\n登录丰信\n查询丰信\n更新丰信\n删除丰信\n打赏丰信",
     "description": "月费1元，利润一天18000+积分可以兑换会员、e卡等，目前听说10e卡会到账。"
   },
   "趣攒米": {
-    "enable": "true",
+    "enable": true,
     "command": "教程趣攒米\n登录趣攒米\n查询趣攒米\n更新趣攒米\n删除趣攒米\n打赏趣攒米\n提现趣攒米\n绑定趣攒米",
     "description": "月费2元，利润一天0.6r左右，满10元提现。"
   },
   "顺丰": {
-    "enable": "true",
+    "enable": true,
     "command": "教程顺丰\n登录顺丰\n查询顺丰\n更新顺丰\n删除顺丰\n打赏顺丰",
     "description": "包含积分任务, 采蜜游戏, 顺丰会员日\n采蜜游戏入口: 我的-积分抽奖-拉到最下面收件兑奖\n积分可以换快递优惠券,爱奇艺周卡,肯德基代金券和各种实物\n采蜜的蜂蜜可以换快递券和实物\n抓包:打开小程序或APP-我的-积分, 捉以下几种url之一\n小程序:\nhttps://mcs-mimp-web.sf-express.com/mcs-mimp/share/weChat/shareGiftReceiveRedirect\nAPP:\nhttps://mcs-mimp-web.sf-express.com/mcs-mimp/share/app/shareRedirect\n永久5元, 每天100+积分积分, 积分换实物和运费劵。"
   },
   "星芽": {
-    "enable": "true",
+    "enable": true,
     "command": "教程星芽\n登录星芽\n查询星芽\n更新星芽\n删除星芽\n打赏星芽",
     "description": "星芽短剧APP，建议手机号短信登录上车，月费2元，利润一天1r左右。15元提现"
   },
   "积分": {
-    "enable": "true",
+    "enable": true,
     "command": "签到指令:签到|积分签到\n查询指令:积分查询\n充值指令:充值|积分充值\n兑换指令:积分兑换",
     "description": "每天签到可获得积分，积分可兑换代挂项目授权。"
   },
   "其他": {
-    "enable": "true",
+    "enable": true,
     "command": "AI指令: ai对话",
     "description": "其他项目的指令，如：天猫精灵、京东金融、美团外卖、滴滴打车等。"
   }
