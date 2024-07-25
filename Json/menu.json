@@ -1,7 +1,8 @@
+
 {
   "菜单": {
     "enable": true,
-    "command": "                欢迎使用大王饿了\n=========目录菜单=========\n饿了菜单          京东菜单\n太平菜单          心喜菜单\n粉象菜单          望潮菜单\n胖乖菜单          丰信菜单\n福田菜单          顺丰菜单\n星芽菜单          趣攒米菜单\n积分菜单          娱乐菜单\n其他菜单\n=========大王饿了=========\n发送对应项目菜单指令操作\n查看项目命令和教程,就发xx菜单\nVXBot:qyxd197\nQQBot:68025408\n有问题联系客服V:smilesad0\nVX容易风控，尽量进入一下QQ\n群：707619337",
+    "command": "             欢迎使用大王饿了\n=========目录菜单=========\n饿了菜单          京东菜单\n太平菜单          心喜菜单\n粉象菜单          望潮菜单\n胖乖菜单          丰信菜单\n福田菜单          顺丰菜单\n星芽菜单          趣攒米菜单\n积分菜单          娱乐菜单\n其他菜单\n=========大王饿了=========\n发送对应项目菜单指令操作\n查看项目命令和教程,就发xx菜单\nVXBot:qyxd197\nQQBot:68025408\n有问题联系客服V:smilesad0\nVX容易风控，尽量进入一下QQ\n群：707619337",
     "description": ""
   },
   "饿了": {
@@ -42,7 +43,7 @@
   "福田": {
     "enable": true,
     "command": "教程福田\n登录福田\n查询福田\n更新福田\n删除福田\n打赏福田",
-    "description": "永久打赏5元，每天90积分，积分换实物。"
+    "description": "月费2元，每天90积分，积分换实物。"
   },
   "丰信": {
     "enable": true,
@@ -57,12 +58,12 @@
   "顺丰": {
     "enable": true,
     "command": "教程顺丰\n登录顺丰\n查询顺丰\n更新顺丰\n删除顺丰\n打赏顺丰",
-    "description": "包含积分任务, 采蜜游戏, 顺丰会员日\n采蜜游戏入口: 我的-积分抽奖-拉到最下面收件兑奖\n积分可以换快递优惠券,爱奇艺周卡,肯德基代金券和各种实物\n采蜜的蜂蜜可以换快递券和实物\n抓包:打开小程序或APP-我的-积分, 捉以下几种url之一\n小程序:\nhttps://mcs-mimp-web.sf-express.com/mcs-mimp/share/weChat/shareGiftReceiveRedirect\nAPP:\nhttps://mcs-mimp-web.sf-express.com/mcs-mimp/share/app/shareRedirect\n永久5元, 每天100+积分积分, 积分换实物和运费劵。"
+    "description": "包含积分任务, 采蜜游戏, 顺丰会员日\n采蜜游戏入口: 我的-积分抽奖-拉到最下面收件兑奖\n积分可以换快递优惠券,爱奇艺周卡,肯德基代金券和各种实物\n采蜜的蜂蜜可以换快递券和实物\n抓包:打开小程序或APP-我的-积分, 捉以下几种url之一\n小程序:\nhttps://mcs-mimp-web.sf-express.com/mcs-mimp/share/weChat/shareGiftReceiveRedirect\nAPP:\nhttps://mcs-mimp-web.sf-express.com/mcs-mimp/share/app/shareRedirect\n月费1月，永久5元, 每天100+积分积分, 积分换实物和运费劵。"
   },
   "星芽": {
     "enable": true,
     "command": "教程星芽\n登录星芽\n查询星芽\n更新星芽\n删除星芽\n打赏星芽",
-    "description": "星芽短剧APP，建议手机号短信登录上车，月费2元，利润一天1r左右。15元提现"
+    "description": "星芽短剧APP，建议手机号短信登录上车，月费5元，利润一天1r左右。15元提现"
   },
   "积分": {
     "enable": true,
