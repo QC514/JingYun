@@ -33,7 +33,7 @@
   "望潮": {
     "enable": true,
     "command": "教程望潮\n登录望潮\n查询望潮\n更新望潮\n删除望潮\n打赏望潮",
-    "description": "月费0.5元，利润一天0.16-0.33r"
+    "description": "月费0.5元，利润一月4r"
   },
   "胖乖": {
     "enable": true,
@@ -43,7 +43,7 @@
   "福田": {
     "enable": true,
     "command": "教程福田\n登录福田\n查询福田\n更新福田\n删除福田\n打赏福田",
-    "description": "月费2元，每天90积分，积分换实物。"
+    "description": "月费2元，每天100+积分，积分换实物。"
   },
   "丰信": {
     "enable": true,
