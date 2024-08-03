@@ -17,7 +17,7 @@
   },
   "太平": {
     "enable": true,
-    "command": "教程指令：太平教程\n查询指令：太平查询\n登录指令：登录|太平上车\n管理指令：太平管理",
+    "command": "教程指令：太平教程\n查询指令：太平查询\n登录指令：太平上车\n管理指令：太平管理",
     "description": "每天130+金币，可以兑换各种奖励，包括E卡，实物、积分、会员等。需要自己卡点抢兑，每天7点开始。月费4，可以通过积分兑换。"
   },
   "心喜": {
@@ -59,7 +59,7 @@
   "顺丰": {
     "enable": true,
     "command": "教程顺丰\n登录顺丰\n查询顺丰\n更新顺丰\n删除顺丰\n打赏顺丰",
-    "description": "包含积分任务, 采蜜游戏, 顺丰会员日\n采蜜游戏入口: 我的-积分抽奖-拉到最下面收件兑奖\n积分可以换快递优惠券,爱奇艺周卡,肯德基代金券和各种实物\n采蜜的蜂蜜可以换快递券和实物\n抓包:打开小程序或APP-我的-积分, 捉以下几种url之一\n小程序:\nhttps://mcs-mimp-web.sf-express.com/mcs-mimp/share/weChat/shareGiftReceiveRedirect\nAPP:\nhttps://mcs-mimp-web.sf-express.com/mcs-mimp/share/app/shareRedirect\n月费1月，永久5元, 每天100+积分积分, 积分换实物和运费劵。"
+    "description": "包含积分任务, 采蜜游戏, 顺丰会员日\n采蜜游戏入口: 我的-积分抽奖-拉到最下面收件兑奖\n积分可以换快递优惠券,爱奇艺周卡,肯德基代金券和各种实物\n采蜜的蜂蜜可以换快递券和实物\n抓包:打开小程序或APP-我的-积分, 捉以下几种url之一\n小程序:\nhttps://mcs-mimp-web.sf-express.com/mcs-mimp/share/weChat/shareGiftReceiveRedirect\nAPP:\nhttps://mcs-mimp-web.sf-express.com/mcs-mimp/share/app/shareRedirect\n月费1月，永久10元, 每天30+积分积分, 积分换实物和运费劵。"
   },
   "星芽": {
     "enable": true,
