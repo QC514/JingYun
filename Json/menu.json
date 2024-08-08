@@ -71,7 +71,7 @@
   },
   "其他": {
     "enable": true,
-    "command": "AI指令: ai对话\n买家秀\n网易云",
+    "command": "AI指令: ai对话\n买家秀\n网易云\n抖音解析",
     "description": "其他项目的指令。"
   }
 }
