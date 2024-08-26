@@ -19,6 +19,16 @@
     "command": "查询指令：豆|京东查询\n登录指令：登录|京东登录\n账密指令：账密登录\n明细指令：豆豆明细",
     "description": "登录指令上车有效期较短，推荐账密上车，自动更新ck, 偶尔需要验证一下。免费项目，每天100豆左右，以及现金红包，农场等活动"
   },
+  "福田": {
+    "enable": true,
+    "command": "教程福田\n登录福田\n查询福田\n更新福田\n删除福田\n打赏福田",
+    "description": "月费2元，每天100+积分，积分换实物。会员已经兑换到账。"
+  },
+  "星芽": {
+    "enable": true,
+    "command": "教程星芽\n登录星芽\n查询星芽\n更新星芽\n删除星芽\n打赏星芽\n提现星芽",
+    "description": "星芽短剧APP，建议手机号短信登录上车，月费5元，利润一天1r左右。15元提现"
+  },
   "太平": {
     "enable": true,
     "command": "教程指令：太平教程\n查询指令：太平查询\n登录指令：太平上车\n管理指令：太平管理",
@@ -39,15 +49,15 @@
     "command": "教程望潮\n登录望潮\n查询望潮\n更新望潮\n删除望潮\n打赏望潮",
     "description": "月费0.5元，利润一月4r"
   },
+  "甬派": {
+    "enable": true,
+    "command": "教程甬派\n登录甬派\n更新甬派\n删除甬派\n打赏甬派",
+    "description": "下载甬派APP, 注册登录后，账密上车。月费0.5元，每日低保 0.16左右，偶尔不中"
+  },
   "胖乖": {
     "enable": true,
     "command": "教程胖乖\n登录胖乖\n查询胖乖\n更新胖乖\n删除胖乖\n打赏胖乖",
     "description": "月费0.5元，利润一天250+积分，用于大学生洗衣服和吹风机"
-  },
-  "福田": {
-    "enable": true,
-    "command": "教程福田\n登录福田\n查询福田\n更新福田\n删除福田\n打赏福田",
-    "description": "月费2元，每天100+积分，积分换实物。会员已经兑换到账。"
   },
   "丰信": {
     "enable": true,
@@ -63,11 +73,6 @@
     "enable": true,
     "command": "教程顺丰\n登录顺丰\n查询顺丰\n更新顺丰\n删除顺丰\n打赏顺丰",
     "description": "包含积分任务, 采蜜游戏, 顺丰会员日\n采蜜游戏入口: 我的-积分抽奖-拉到最下面收件兑奖\n积分可以换快递优惠券,爱奇艺周卡,肯德基代金券和各种实物\n采蜜的蜂蜜可以换快递券和实物\n抓包:打开小程序或APP-我的-积分, 捉以下几种url之一\n小程序:\nhttps://mcs-mimp-web.sf-express.com/mcs-mimp/share/weChat/shareGiftReceiveRedirect\nAPP:\nhttps://mcs-mimp-web.sf-express.com/mcs-mimp/share/app/shareRedirect\n月费1月，永久10元, 每天30+积分积分, 积分换实物和运费劵。"
-  },
-  "星芽": {
-    "enable": true,
-    "command": "教程星芽\n登录星芽\n查询星芽\n更新星芽\n删除星芽\n打赏星芽\n提现星芽",
-    "description": "星芽短剧APP，建议手机号短信登录上车，月费5元，利润一天1r左右。15元提现"
   },
   "积分": {
     "enable": true,
