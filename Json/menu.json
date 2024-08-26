@@ -64,15 +64,15 @@
     "command": "教程丰信\n登录丰信\n查询丰信\n更新丰信\n删除丰信\n打赏丰信",
     "description": "目前一直没货，月费2元，利润一天18000+积分可以兑换会员、e卡等，目前听说10e卡会到账。"
   },
-  "趣攒米": {
-    "enable": true,
-    "command": "教程趣攒米\n登录趣攒米\n查询趣攒米\n更新趣攒米\n删除趣攒米\n打赏趣攒米\n提现趣攒米\n绑定趣攒米",
-    "description": "月费5元，利润一天1.5r左右，满10元提现。下载链接: http://anh5.quzanmi.com/landing?shifuId=56485753"
-  },
   "顺丰": {
     "enable": true,
     "command": "教程顺丰\n登录顺丰\n查询顺丰\n更新顺丰\n删除顺丰\n打赏顺丰",
     "description": "包含积分任务, 采蜜游戏, 顺丰会员日\n采蜜游戏入口: 我的-积分抽奖-拉到最下面收件兑奖\n积分可以换快递优惠券,爱奇艺周卡,肯德基代金券和各种实物\n采蜜的蜂蜜可以换快递券和实物\n抓包:打开小程序或APP-我的-积分, 捉以下几种url之一\n小程序:\nhttps://mcs-mimp-web.sf-express.com/mcs-mimp/share/weChat/shareGiftReceiveRedirect\nAPP:\nhttps://mcs-mimp-web.sf-express.com/mcs-mimp/share/app/shareRedirect\n月费1月，永久10元, 每天30+积分积分, 积分换实物和运费劵。"
+  },
+  "趣攒米": {
+    "enable": true,
+    "command": "教程趣攒米\n登录趣攒米\n查询趣攒米\n更新趣攒米\n删除趣攒米\n打赏趣攒米\n提现趣攒米\n绑定趣攒米",
+    "description": "月费5元，利润一天1.5r左右，满10元提现。下载链接: http://anh5.quzanmi.com/landing?shifuId=56485753"
   },
   "积分": {
     "enable": true,
