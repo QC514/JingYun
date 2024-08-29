@@ -72,7 +72,7 @@
   "点点": {
     "enable": true,
     "command": "教程点点\n登录点点\n更新点点\n删除点点\n打赏趣攒米",
-    "description": "月费5元，利润一天1.5r左右，满10元提现。下载链接: http://anh5.quzanmi.com/landing?shifuId=56485753"
+    "description": "发送教程点点，扫码登录小程序，然后抓包api_auth_uid和api_auth_code按照格式提交。月费0元，每天几角钱积分。"
   },
   "积分": {
     "enable": true,
