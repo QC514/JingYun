@@ -57,7 +57,7 @@
   "助力": {
     "enable": true,
     "command": "教程助力\n登录助力\n更新助力\n删除助力\n打赏助力",
-    "description": "助力授权，月费8元，一天多1980乐园币。"
+    "description": "助力授权，月费5元，一天多1980乐园币。"
   },
   "顺丰": {
     "enable": true,
